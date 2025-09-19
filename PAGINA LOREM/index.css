@@ -1,0 +1,41 @@
+header {
+    width: 100vw;
+    height: 8vh;
+    background-color: rgb(179, 205, 223);
+}
+
+body {
+font-family: roboto;
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    font-size: 11px;
+}
+
+p{
+    font-size: 12px;
+}
+
+main {
+    width: 100vw;
+}
+
+
+
+footer {
+
+    background-color: rgb(179, 205, 223);
+    width: 100vw;
+    height: 6vh;
+}
+h3{
+    font-size: 15px;
+}
+
+main div{
+    width: 30%;
+    background-color: red;
+    display: inline-block;
+}
